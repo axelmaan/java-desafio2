@@ -1,0 +1,23 @@
+body {
+
+        font-family: "Roboto", sans-serif;
+        font-weight: 100;
+        font-style: normal;
+      
+}
+.fotos img {
+    width: 10rem;
+}
+.fotos {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+
+}
+.contenedor {
+    text-align: center;
+
+}
+#btn {
+    margin: 20px;
+}
